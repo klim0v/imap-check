@@ -1,4 +1,4 @@
-module imap-check
+module github.com/klim0v/imap-check
 
 go 1.12
 
