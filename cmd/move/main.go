@@ -28,7 +28,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	criteria.Header.Add("From", `accounts@firefox.com`)
+	criteria.Header.Add("AAA", "test")
 	seqNums, err := c.Search(criteria)
 	if err != nil {
 		log.Fatal(err)
