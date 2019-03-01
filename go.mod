@@ -1,4 +1,4 @@
-module github.com/klim0v/imap-check
+module github.com/klim0v/mail-check
 
 go 1.12
 
